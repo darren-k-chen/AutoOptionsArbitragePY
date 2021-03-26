@@ -1,0 +1,322 @@
+Options Arbitrage Proof Program (*Auto*) | Powered by Darren K.J. Chen
+Copyright © 2020 Darren ( Kuan-Ju ) Chen | All Rights Reserved
+Pls input the File Name, which use for import data >>
+Pls input Contract Month >> 202009
+Is Trading Session Regular? (Type 'True' or 'False', Defalut is True) >>
+Pls input the price now  >> 12757
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12500.0000
+Call/Put : Call
+Open : 263
+High : 330
+Low : 241
+Close : 328
+Volume : 1204
+Settlement Price : 328
+OI : 3234
+Best Bid : 325
+Best Ask : 329
+Historical High : 600
+Historical Low : 35
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12500.0000
+Call/Put : Put
+Open : 197
+High : 208
+Low : 136
+Close : 139
+Volume : 3188
+Settlement Price : 139
+OI : 9394
+Best Bid : 138
+Best Ask : 140
+Historical High : 670
+Historical Low : 98
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+12500.0000 Cmb. futures Price: 12566.00000
+>---------------------<#-#>--------------------<
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12600.0000
+Call/Put : Call
+Open : 213
+High : 261
+Low : 186
+Close : 260
+Volume : 2523
+Settlement Price : 260
+OI : 2613
+Best Bid : 250
+Best Ask : 266
+Historical High : 560
+Historical Low : 14
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12600.0000
+Call/Put : Put
+Open : 248
+High : 252
+Low : 167
+Close : 170
+Volume : 2758
+Settlement Price : 170
+OI : 4572
+Best Bid : 168
+Best Ask : 171
+Historical High : 2130
+Historical Low : 119
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+12600.0000 Cmb. futures Price: 12565.00000
+>---------------------<#-#>--------------------<
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12700.0000
+Call/Put : Call
+Open : 162
+High : 201
+Low : 140
+Close : 199
+Volume : 2906
+Settlement Price : 199
+OI : 5656
+Best Bid : 199
+Best Ask : 200
+Historical High : 500
+Historical Low : 16.5
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12700.0000
+Call/Put : Put
+Open : 283
+High : 303
+Low : 205
+Close : 210
+Volume : 1530
+Settlement Price : 210
+OI : 3297
+Best Bid : 206
+Best Ask : 211
+Historical High : 735
+Historical Low : 144
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+12700.0000 Cmb. futures Price: 12579.00000
+>---------------------<#-#>--------------------<
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12800.0000
+Call/Put : Call
+Open : 120
+High : 148
+Low : 101
+Close : 147
+Volume : 4527
+Settlement Price : 147
+OI : 8795
+Best Bid : 146
+Best Ask : 148
+Historical High : 450
+Historical Low : 1.6
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12800.0000
+Call/Put : Put
+Open : 349
+High : 361
+Low : 254
+Close : 258
+Volume : 579
+Settlement Price : 258
+OI : 2372
+Best Bid : 250
+Best Ask : 258
+Historical High : 4040
+Historical Low : 175
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+12800.0000 Cmb. futures Price: 12571.00000
+>---------------------<#-#>--------------------<
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12900.0000
+Call/Put : Call
+Open : 86
+High : 105
+Low : 70
+Close : 104
+Volume : 4212
+Settlement Price : 104
+OI : 8557
+Best Bid : 104
+Best Ask : 105
+Historical High : 391
+Historical Low : 29.5
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 12900.0000
+Call/Put : Put
+Open : 418
+High : 435
+Low : 312
+Close : 315
+Volume : 358
+Settlement Price : 315
+OI : 1006
+Best Bid : 312
+Best Ask : 333
+Historical High : 1000
+Historical Low : 212
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+12900.0000 Cmb. futures Price: 12568.00000
+>---------------------<#-#>--------------------<
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 13000.0000
+Call/Put : Call
+Open : 56
+High : 71
+Low : 48
+Close : 71
+Volume : 7554
+Settlement Price : 71
+OI : 11051
+Best Bid : 70
+Best Ask : 71
+Historical High : 342
+Historical Low : 6.2
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 13000.0000
+Call/Put : Put
+Open : 446
+High : 505
+Low : 376
+Close : 384
+Volume : 137
+Settlement Price : 384
+OI : 512
+Best Bid : 360
+Best Ask : 394
+Historical High : 4240
+Historical Low : 257
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+13000.0000 Cmb. futures Price: 12610.00000
+>---------------------<#-#>--------------------<
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 13100.0000
+Call/Put : Call
+Open : 40
+High : 47
+Low : 31.5
+Close : 45.5
+Volume : 3238
+Settlement Price : 45.5
+OI : 8323
+Best Bid : 45
+Best Ask : 45.5
+Historical High : 297
+Historical Low : 4
+Trading Halt :
+Trading Session : Regular
+None : ['']
+------------------------
+Date : 2020/09/01
+Contract : TXO
+Contract Month(Week) : 202009
+Strike Price : 13100.0000
+Call/Put : Put
+Open : 530
+High : 585
+Low : 458
+Close : 458
+Volume : 43
+Settlement Price : 458
+OI : 309
+Best Bid : 337
+Best Ask : 595
+Historical High : 895
+Historical Low : 312
+Trading Halt :
+Trading Session : Regular
+None : ['']
+>-------------<CMB. FUTURES PRICE>-------------<
+13100.0000 Cmb. futures Price: 12610.00000
+>---------------------<#-#>--------------------<
+Cmb. futures price List:
+ [12566.0, 12565.0, 12579.0, 12571.0, 12568.0, 12610.0, 12610.0]
+>-------------<PORTFOLIO>-------------<
+LONG  FUTURES: TXO - 13000.0000 Call
+LONG  FUTURES: TXO - 13100.0000 Call
+SHORT FUTURES: TXO - 12600.0000
+** NOTE: Take one of LONG FUTURES n SHORT FUTURES **
+>----------------<#-#>----------------<
+>-------------<CLOSE TRADE>-------------<
+LF_CALL_PROFIT 15.0
+LF_PUT_PROFIT 62.0
+SF_CALL_PROFIT -47.0
+SF_PUT_PROFIT -78.0
+## <TOTAL PROFIT : -48.00000> ##
+>-----------------<#-#>-----------------<
